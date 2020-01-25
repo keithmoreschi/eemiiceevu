@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oogieghai.skyblazers.no/sitemap.xml
